@@ -1,3 +1,7 @@
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=knorthy&label=Profile%20views&color=ff00ff&style=flat" alt="knorthy" />
+</p>
+
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Welcome%20to%20my%20Github%20Profile%20I%27m%20Tiffany%20a%20Designer%20and%20a%20Developer&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=130&comment=">
@@ -11,10 +15,13 @@
 </p>
 </div>
 
-# 💫 About Me:
+# About Me:
 Hi im Tiffany Lyssa a BS Computer  Science  student 
 
 <div align="center">
+  <a href="tiffanylyssa.p@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.instagram.com/l.ystffny/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4455F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -32,7 +39,7 @@ Hi im Tiffany Lyssa a BS Computer  Science  student
   </a>
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=knorthy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knorthy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="145" alt="languages graph"  />
@@ -40,7 +47,7 @@ Hi im Tiffany Lyssa a BS Computer  Science  student
 
 <br clear="both">
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 > Tools and technologies that I have worked with and am interested in.
 
