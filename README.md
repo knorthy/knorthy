@@ -16,7 +16,11 @@
 </div>
 
 # About Me:
-Hi im Tiffany Lyssa a BS Computer  Science  student 
+Hi, I'm Tiffany Lyssa, a BS Computer Science student passionate about creating and innovating!
+
+Currently, I’m diving deep into designing, blending creativity with technology to build user-friendly experiences. I’m actively working on GitHub projects to sharpen my skills, with a focus on React Native for mobile development and machine learning to explore data-driven solutions.
+
+Feel free to check out my repositories and connect if you’d like to collaborate on exciting projects!
 
 <div align="center">
   <a href="tiffanylyssa.p@gmail.com">
