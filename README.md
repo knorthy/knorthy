@@ -112,8 +112,8 @@ Feel free to check out my repositories and connect if you’d like to collaborat
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" />
-      <br>React
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732" height="40" alt="Arduino Icon" />
+      <br>Arduino
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" />
