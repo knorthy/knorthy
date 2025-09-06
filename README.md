@@ -58,7 +58,7 @@ Feel free to check out my repositories and connect if you’d like to collaborat
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Icon" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" alt="C++" />
       <br>Spring
     </td>
     <td align="center" width="96">
