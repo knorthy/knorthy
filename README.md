@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Tiffany.+💻;A+Designer☕;who+Judges+a+Book+by+its+Cover;Because+if+the+cover;does+not+impress+you;what+else+can?" 
        alt="HI I'm TIffany A designer ho judges a Book by its Cover BEcause  if the cover does not impress you, What else  can?">
 </p>
+</div>
 
 # 💫 About Me:
 Hi im Tiffany Lyssa a BS Computer  Science  student 
