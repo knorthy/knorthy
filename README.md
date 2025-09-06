@@ -120,7 +120,7 @@ Feel free to check out my repositories and connect if you’d like to collaborat
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Icon" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" alt="MySQL Icon" />
       <br>MySQL
     </td>
     <td align="center" width="96">
