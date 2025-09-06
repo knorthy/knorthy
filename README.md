@@ -59,10 +59,10 @@ Feel free to check out my repositories and connect if you’d like to collaborat
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" alt="C++" />
-      <br>Spring
+      <br>C++
     </td>
     <td align="center" width="96">
-      <img src="./gif/java.gif" height="40" alt="Java Icon" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" height="40" alt="Java Icon" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -90,8 +90,8 @@ Feel free to check out my repositories and connect if you’d like to collaborat
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Icon" />
-      <br>Linux
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
     </td>
   </tr>
   <tr>
@@ -108,8 +108,8 @@ Feel free to check out my repositories and connect if you’d like to collaborat
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap Icon" />
-      <br>Bootstrap
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python Icon" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Icon" />
