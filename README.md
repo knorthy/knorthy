@@ -150,8 +150,8 @@ Feel free to check out my repositories and connect if you’d like to collaborat
       <br>Canva
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello Icon" />
-      <br>Trello
+      <img src="https://learningspaces.osu.edu/sites/default/files/styles/max_640x640/public/images/adobe-creative-cloud-icon.jpg?itok=n5OIRnuX" height="40" alt="Adobe CC Icon" />
+      <br>Adobe cc
     </td>
   </tr>
 </table>
