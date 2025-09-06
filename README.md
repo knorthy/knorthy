@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20welcome%20to%20my%20github%20profile%20Iam%20Tiffany&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=130&comment=">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%20welcome%20to%20my%20github%20profile%20Iam%20Tiffany&l0=none&lyssa=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=130&comment=">
   </a>
 </div>
 
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Tiffany+.+💻;A+Designer☕;who;Judges+a+Book+by+its+Cover;Because+if+the+cover+does+not+impress+you;what+else+can?" 
-       alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Tiffany.+💻;A+Designer☕;who+Judges+a+Book+by+its+Cover;Because+if+the+cover;does+not+impress+you;what+else+can?" 
+       alt="HI I'm TIffany A designer ho judges a Book by its Cover BEcause  if the cover does not impress you, What else  can?">
 </p>
 
 # 💫 About Me:
