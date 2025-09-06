@@ -4,6 +4,12 @@
   </a>
 </div>
 
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Slab&color=B1F5D8&size=30&center=true&vCenter=true&width=500&lines=Hi+I'm+Tiffany+.+💻;A+Designer☕;who;Judges+a+Book+by+its+Cover;Because+if+the+cover+does+not+impress+you;what+else+can?" 
+       alt="Welcome to my profile, I'm Pablo Rosas R., Backend Developer in Java, Spring Boot Expert">
+</p>
+
 # 💫 About Me:
 Hi im Tiffany Lyssa a BS Computer  Science  student 
 
