@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi%2C%20welcome%20to%20my%20GitHub%20profile%E2%80%94I'm%20Tiffany,%20a%20Designer%20and%20a%20Developer%20&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=130&comment=">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Welcome%20to%20my%20Github%20Profile%20I%27m%20Tiffany%20a%20Designer%20and%20a%20Developer&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=130&comment=">
   </a>
 </div>
 
