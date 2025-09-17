@@ -32,7 +32,7 @@ Feel free to check out my repositories and connect if you’d like to collaborat
   <a href="no.orthy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="[www.linkedin.com/in/aaron-jay-sopena-b6853732a](https://www.linkedin.com/in/tiffany-lyssa-4b210b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="(https://www.linkedin.com/in/tiffany-lyssa-4b210b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/tiffanylysa" target="_blank">
