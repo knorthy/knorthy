@@ -23,10 +23,10 @@ Currently, I’m diving deep into designing, blending creativity with technology
 Feel free to check out my repositories and connect if you’d like to collaborate on exciting projects!
 
 <div align="center">
-  <a href="tiffanylyssa.p@gmail.com">
+  <a href="tiffanylyssaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.instagram.com/l.ystffny/" target="_blank">
+  <a href="kno.orthy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4455F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="no.orthy" target="_blank">
@@ -35,10 +35,10 @@ Feel free to check out my repositories and connect if you’d like to collaborat
   <a href="(https://www.linkedin.com/in/tiffany-lyssa-4b210b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/tiffanylysa" target="_blank">
+  <a href="tiffanylysa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/lystffny" target="_blank">
+  <a href="lystffny" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
