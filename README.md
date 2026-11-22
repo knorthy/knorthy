@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/hands.svg" alt="Two hands reaching toward each other" width="820" />
+</div>
+
+<div align="center">
   <img src="assets/progress.svg" alt="About me card" />
 </div>
 
