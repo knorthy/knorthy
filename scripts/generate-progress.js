@@ -7,7 +7,7 @@ const data = JSON.parse(fs.readFileSync(path.join(ROOT, "progress.json"), "utf8"
 
 const LEVELS = [
   { key: "languages", label: "01 — LANGUAGES" },
-  { key: "web",       label: "02 — WEB & APIS" },
+  { key: "web",       label: "02 — WEB &amp; APIS" },
   { key: "databases", label: "03 — DATABASES" },
   { key: "tools",     label: "04 — TOOLS" },
   { key: "design",    label: "05 — DESIGN" },
@@ -196,7 +196,7 @@ function pixelWord(word, x0, y0, cell) {
 
   <g transform="translate(${OUT},${OUT})">
     <rect class="card" width="${CW}" height="${CH1}" rx="16" filter="url(#soft)"/>
-    <text class="label" x="${PAD}" y="${26 + 10}">COMPUTER SCIENCE MAJOR — DESIGNER & DEVELOPER</text>
+    <text class="label" x="${PAD}" y="${26 + 10}">COMPUTER SCIENCE MAJOR — DESIGNER &amp; DEVELOPER</text>
     ${title.svg}
 ${card1}
     <line class="hair" x1="${PAD}" y1="${foot1}" x2="${CW - PAD}" y2="${foot1}"/>
