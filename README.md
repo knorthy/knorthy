@@ -23,6 +23,9 @@ Currently, I’m diving deep into designing, blending creativity with technology
 Feel free to check out my repositories and connect if you’d like to collaborate on exciting projects!
 
 <div align="center">
+  <a href="https://tiffanylyssa.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+  </a>
   <a href="tiffanylyssaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -43,6 +46,10 @@ Feel free to check out my repositories and connect if you’d like to collaborat
   </a>
 </div>
 
+<div align="center">
+  <img src="assets/progress.svg" alt="About me card" />
+</div>
+
 # GitHub Stats:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=knorthy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
@@ -50,119 +57,6 @@ Feel free to check out my repositories and connect if you’d like to collaborat
 </div>
 
 <br clear="both">
-
-# Tech Stack:
-
-> Tools and technologies that I have worked with and am interested in.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" height="40" alt="Java Icon" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API Icon" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL Icon" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Icon" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker Icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman Icon" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML Icon" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS Icon" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python Icon" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Arduino_IDE_logo.svg/768px-Arduino_IDE_logo.svg.png?20230510165732" height="40" alt="Arduino Icon" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js Icon" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" alt="MySQL Icon" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM Icon" />
-      <br>NPM
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown Icon" />
-      <br>Markdown
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress Icon" />
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode Icon" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma Icon" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva Icon" />
-      <br>Canva
-    </td>
-    <td align="center" width="96">
-      <img src="https://learningspaces.osu.edu/sites/default/files/styles/max_640x640/public/images/adobe-creative-cloud-icon.jpg?itok=n5OIRnuX" height="40" alt="Adobe CC Icon" />
-      <br>Adobe cc
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
-
-</p>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=knorthy&icon=0&color=0)](https://visitcount.itsvg.in)
