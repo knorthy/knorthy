@@ -105,17 +105,19 @@ function pixelWord(word, x0, y0, cell) {
   let y = 26 + 16 + 10 + title.height + 24;
   let card1 = "";
   let delayIdx = 0;
-  for (const g of groups) {
-    const d = Math.min(50 + delayIdx++ * 70, 330);
-    const names = g.items.map(i => esc(i.name)).join("  ·  ");
+  const INTRO = [
+    "Hi, I'm Tiffany Lyssa, a Computer Science major passionate about creating and innovating.",
+    "Designing, blending creativity with technology to build user-friendly experiences.",
+    "Focusing on React Native for mobile development and machine learning.",
+  ];
+  card1 += `
+    <line class="hair" x1="${PAD}" y1="${y - 14}" x2="${CW - PAD}" y2="${y - 14}"/>`;
+  INTRO.forEach((line, i) => {
     card1 += `
-    <g class="row" style="animation-delay:${d}ms">
-      <line class="hair" x1="${PAD}" y1="${y - 14}" x2="${CW - PAD}" y2="${y - 14}"/>
-      <text class="label" x="${PAD}" y="${y + 6}">${g.label}</text>
-      <text class="name" x="${PAD + 150}" y="${y + 7}">${names}</text>
-    </g>`;
-    y += 42;
-  }
+    <text class="name row" style="animation-delay:${50 + i * 70}ms" x="${PAD}" y="${y + 8}">${esc(line)}</text>`;
+    y += 30;
+  });
+  y += 12;
   const foot1 = y + 4;
   const CH1 = foot1 + 36;
 
